@@ -1,7 +1,11 @@
 Drools on PCF simple example 
 ===
 
-An experiment in creating a minimal Drools web service using Spring Boot.
+Create a  minimal Drools web service using Spring Boot. 
+
+Rule shown : If the person is under 16 then they display a ChildBusPass, else a AdultBusPass. You can see the results here ( toggle 16 / 15 
+
+https://drools1.cfapps.io/buspass?name=Steve&age=16
 
 For the rules, I took my rules from the Bus Pass example in the JBPM project:
 
