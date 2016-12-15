@@ -31,3 +31,4 @@ For example, opening http://127.0.0.1:8080/buspass?name=Steve&age=15 gives me: R
     
     {"person":{"name":"Steve","age":16},"busPassType":"AdultBusPass"}
 
+For How the DRL rules are configured, take a look at BusPass.drl udner Resources folder of the /SRC
